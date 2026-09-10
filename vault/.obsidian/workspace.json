@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67b7b116d3dad595",
+        "id": "ed5946de9341fc87",
         "type": "tabs",
         "children": [
           {
-            "id": "d255ac6cfeca6988",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6e45610b4ae04b33",
+            "id": "b3a2d7d27156822a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,14 +185,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6e45610b4ae04b33",
+  "active": "b3a2d7d27156822a",
   "lastOpenFiles": [
+    "Hardware.md",
+    "Maze Robot.md",
+    "vault",
+    "New folder",
     "Software.md",
     "README.md",
     "Projects.md",
-    "Maze Robot.md",
     "LICENSE",
-    "Hardware.md",
     "Assembly (HCS12).md",
     "hidden-inventory/Software.md",
     "hidden-inventory/Projects.md",
