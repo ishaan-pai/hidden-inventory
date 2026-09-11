@@ -1,14 +1,44 @@
-Languages:
+Languages, Tools, Etc:
 - [[C]]
 - [[C++]]
 - [[VHDL]]
+	- [[Quartus II]]
+	- [[DE2-115 Hardware Board]]
+	- [[Altera FPGA Cyclone IV]]
+	- [[Vector Wave Forms]]
 - [[Matlab]]
 	- [[Simulink]]
 - [[Assembly]]
 	- [[HCS12]]
+	- [[CodeWarrior IDE]]
+- [[Circuit Creation]]
 
 Project List:
 - [[Maze Robot]] ([[Assembly]] ([[HCS12]]))
 - [[Multi-Cycle CPU]] ([[VHDL]])
 - [[DC Servo PID]] ([[Matlab]], [[Simulink]])
+- [[Global Temps CSV Analyzer]] ([[C]])
+- [[Quartus II Basic Schematic Design]] ([[VHDL]], [[Quartus II]])
+- [[Logic Function Simulations Using NAND Gates]] ([[VHDL]], [[Quartus II]])
+- [[4-bit Adder and Subtractor Unit (ASU) on Altera CPLD Chip]] ([[VHDL]], [[Quartus II]])
+- [[Decoder, Encoder, Multiplexor, and Johnson's Counter ]] ([[VHDL]], [[Quartus II]])
+- [[Finite State Machine (FSM)]] ([[VHDL]], [[Quartus II]])
+- [[Simple, General Purpose Arithmetic and Logic Unit (ALU)]] ([[VHDL]], [[Quartus II]])
+- [[Simple State Machine]] ([[C]])
+- [[XML-Based Heap]] ([[C]])
+- [[Custom Hitbox-Style Controller]] ([[Circuit Creation]])
+- [[Robot Roaming Program]] ([[Assembly]], [[CodeWarrior IDE]])
+- [[Program Counter and Register Set]] ([[VHDL]], [[Quartus II]], [[DE2-115 Hardware Board]], [[Altera FPGA Cyclone IV]], [[Vector Wave Forms]])
+- [[32-Bit ALU Design and Simulation]] ([[VHDL]], [[Quartus II]], [[Vector Wave Forms]])
+- [[8-Bit ALU Implementation and Testing]] ([[VHDL]], [[Quartus II]], [[DE2-115 Hardware Board]], [[Altera FPGA Cyclone IV]], [[Vector Wave Forms]])
+- [[256 Word x 32 Bit Data Memory Unit Design, Simulation, and Implementation]] ([[VHDL]], [[Quartus II]], [[DE2-115 Hardware Board]], [[Altera FPGA Cyclone IV]], [[Vector Wave Forms]])
+- [[32-Bit CPU Data Path Designed and Tested with Upper Zero Extender (UZE) Unit, Lower Zero Extender (LZE) Unit, Reducer (RED) Unit, and Arithmetic and Logic Unit (ALU)]] ([[VHDL]], [[Quartus II]], [[Vector Wave Forms]])
+- [[Control Unit for 32-Bit Data Path Design and Simulation]] ([[VHDL]], [[Quartus II]], [[Vector Wave Forms]])
+- [[Complete 32-Bit CPU with Data Path, Control Unit, and Reset Circuit Designed, Simulated, Implemented]] ([[VHDL]], [[Quartus II]], [[DE2-115 Hardware Board]], [[Altera FPGA Cyclone IV]], [[Vector Wave Forms]])
+- [[Simple Shell using fork(), execXX(), and wait()]] ([[C]])
+- [[Simple Shell supporting Piping]] ([[C]])
+- [[Threading in C using POSIX pthread package]] ([[C]])
+- [[Synchronizing Threads in POSIX-Compliant OS by implementing Mutex]] ([[C]])
+- [[Basic Semaphore]] ([[Java]])
+- [[Designing and Using Semaphores to Solve the Dining Philosophers Problem]] ([[Java]])
 - 

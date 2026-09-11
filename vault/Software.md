@@ -1,17 +1,34 @@
-Languages:
+Languages, Tools, Etc:
 - [[Java]]
+	- [[JavaFX]]
+	- [[Spring Environment]]
+		- [[Spring Web]]
+		- [[Spring Data]]
+		- [[Spring Security]]
+	- [[JUnit]]
 - [[Python]]
 - [[C]]
 - [[C++]]
 - [[Go]]
 - [[Matlab]]
+- [[PostgreSQL]]
+- [[CSS]]
 
 Project List:
 - [[Task Manager CLI Tool]] ([[Python]])
 - [[HTTP 1.1 Server]] ([[Python]])
 - [[C-Terminal CLI]] ([[C]])
 - [[Load Balancer]] ([[Go]])
-- [[Student Management Spring Boot API]] ([[Java]])
+- [[Student Management Spring Boot API]] ([[Java]], [[Spring Environment]], [[PostgreSQL]])
 - [[Character Level GPT From Scratch]] ([[Python]])
 - [[Neural Network in 11 Lines]] ([[Python]])
 - [[File Transfer Protocol (FTP) Server]] ([[C++]])
+- [[Basic Electrical Circuit Simulation]] ([[Java]])
+- [[Simple Blackjack Simulation]] ([[Java]])
+- [[Simple Bank Accounts Simulation]] ([[Java]])
+- [[Simple State Machine]] ([[C]])
+- [[XML-Based Heap]] ([[C]])
+- [[Simple Library System]] ([[Java]], [[JavaFX]], [[CSS]])
+- [[Simple Flight Booking System]] ([[Java]], [[JUnit]])
+- [[Simple Expense Manager CLI Tool]] ([[Python]])
+- 
