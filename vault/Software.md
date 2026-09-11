@@ -31,4 +31,3 @@ Project List:
 - [[Simple Library System]] ([[Java]], [[JavaFX]], [[CSS]])
 - [[Simple Flight Booking System]] ([[Java]], [[JUnit]])
 - [[Simple Expense Manager CLI Tool]] ([[Python]])
-- 

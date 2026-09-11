@@ -41,4 +41,3 @@ Project List:
 - [[Synchronizing Threads in POSIX-Compliant OS by implementing Mutex]] ([[C]])
 - [[Basic Semaphore]] ([[Java]])
 - [[Designing and Using Semaphores to Solve the Dining Philosophers Problem]] ([[Java]])
-- 

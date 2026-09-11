@@ -45,7 +45,8 @@
               "title": "Hardware"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9619499c2bcff3a1",
+  "active": "9b8e05efa3c41f5c",
   "lastOpenFiles": [
+    "Software.md",
     "Hardware.md",
     "HCS12.md",
-    "Software.md",
     "Simple, General Purpose ALU.md",
     "Quartus II.md",
     "Simple Adder and Subtractor Unit.md",
