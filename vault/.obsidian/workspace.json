@@ -11,8 +11,12 @@
             "id": "bdddc302296542e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Multi-Cycle CPU.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Multi-Cycle CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Multi-Cycle CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Multi-Cycle CPU.md"
+              }
             }
           }
         ]
@@ -153,6 +161,7 @@
   },
   "active": "bdddc302296542e6",
   "lastOpenFiles": [
+    "Multi-Cycle CPU.md",
     "HTTP 1.1 Server.md",
     "Software.md",
     "Student Management Spring Boot API.md",
