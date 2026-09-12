@@ -4,49 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5946de9341fc87",
+        "id": "e98313b9d955e854",
         "type": "tabs",
         "children": [
           {
-            "id": "9619499c2bcff3a1",
+            "id": "bdddc302296542e6",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b3a2d7d27156822a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software"
-            }
-          },
-          {
-            "id": "9b8e05efa3c41f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardware"
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,13 +34,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -86,9 +50,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -96,12 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ],
@@ -125,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +89,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -144,12 +98,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -159,12 +110,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -176,9 +123,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              }
             }
           },
           {
@@ -186,14 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "state": {}
             }
           }
         ]
@@ -210,13 +148,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9b8e05efa3c41f5c",
+  "active": "bdddc302296542e6",
   "lastOpenFiles": [
+    "HTTP 1.1 Server.md",
     "Software.md",
+    "Student Management Spring Boot API.md",
+    "Load Balancer.md",
+    "Untitled 1.canvas",
+    "2026-09-11.md",
+    "Untitled.canvas",
+    "PokePai Web Store.md",
+    "Character Level GPT From Scratch.md",
     "Hardware.md",
     "HCS12.md",
     "Simple, General Purpose ALU.md",
@@ -224,7 +169,6 @@
     "Simple Adder and Subtractor Unit.md",
     "C.md",
     "Projects.md",
-    "Untitled.canvas",
     "Maze Robot.md",
     "vault",
     "New folder",
@@ -241,7 +185,6 @@
     "hidden-inventory",
     "Untitled.base",
     "2026-09-10.md",
-    "Untitled 1.base",
-    "Untitled 1.canvas"
+    "Untitled 1.base"
   ]
 }

@@ -13,6 +13,7 @@ Languages, Tools, Etc:
 - [[Matlab]]
 - [[PostgreSQL]]
 - [[CSS]]
+- [[React]]
 
 Project List:
 - [[Task Manager CLI Tool]] ([[Python]])
@@ -31,3 +32,4 @@ Project List:
 - [[Simple Library System]] ([[Java]], [[JavaFX]], [[CSS]])
 - [[Simple Flight Booking System]] ([[Java]], [[JUnit]])
 - [[Simple Expense Manager CLI Tool]] ([[Python]])
+- [[PokePai Web Store]] ([[Java]], [[React]], [[PostgreSQL]], [[Spring Environment]])
